@@ -10,6 +10,7 @@
 function main1() {
 // https://docs.google.com/spreadsheets/d/1m4BI7R-CcjNREH4DUe1xCM3OIVVSGrGx6-7iUtIvUWE/edit#gid=635058114
 
+// !
 // スプレッドシートのID
 	$gss_id = '1m4BI7R-CcjNREH4DUe1xCM3OIVVSGrGx6-7iUtIvUWE';
 // シートID
